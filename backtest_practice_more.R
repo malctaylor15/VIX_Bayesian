@@ -9,7 +9,7 @@ numb_obs <- 200
 nsim  <-50000
 
 distibution_func <- function(vix, numb_obs, nsim ){
-  
+ 
   # Create Log Returns
   vixw<-vix$VIX[1:numb_obs]
   lv<-log(vixw/100)
