@@ -1,4 +1,4 @@
-# VIX_Bayesian
+# Bayesian Analysis of the VIX
 
 Most recent copy is backtest_practice_more.R which uses VIX-weekly-26yr.csv . 
 VIX-weekly-26yr.csv is the date and weekly historical prices of the VIX for the past 26 years- since the inception in 1990. 
@@ -12,6 +12,3 @@ Where the β~ N(β_MLE,σ) and σ~1/(χ^2 (#obs-1) ) and ϵ~N(0,1)
 More information is available in the Ideas for a trading strategy document. 
 
 Many thanks to Eric Jacquier for my induction to my first Bayesian Monte Carlo simulation and his help constructing the core of this algorithm. 
-
-
-
